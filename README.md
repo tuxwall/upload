@@ -7,7 +7,7 @@ Upload files to the desired directory and they will automatically be published t
 ## Steps
 
 1. Fork this repository to your account
-2. Upload files
+2. Upload files to [upload locations](#upload-locations)
 3. Create pull request
 
 ## Upload locations
