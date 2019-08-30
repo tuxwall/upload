@@ -2,22 +2,15 @@
 
 **beta.armbian.com**
 
+Upload files to the desired directory and they will automatically be published to the repository. You can [make debs with our build tools](https://github.com/armbian/build), made on your own or grab somewhere.
 
-**Upload files to the desired directory and they will automatically be published to the repository.**
-
-1. [Make debs with our build tools](https://github.com/armbian/build)
-
-2. Clone this repository and copy the content from build/output/debs to this upload/debs. Use prepared structure when making armbian debs! If you need to add some 3rd party generic package for all Armbian variants, just put it to the upload/debs
-
-3. Commit and create a pull request
-
-
-
-## Upload locations
+## Steps
 
 1. Fork this repository to your account
 2. Upload files
 3. Create pull request
+
+## Upload locations
 
 <table width="100%" cellpadding="4" cellspacing="0">
 	<tr>
