@@ -15,7 +15,9 @@
 
 ## Upload locations
 
-You need to clone this repository and upload files to one of the following destionation:
+1. Fork this repository to your account
+2. Upload files
+3. Create pull request
 
 <table width="100%" cellpadding="4" cellspacing="0">
 	<tr>
