@@ -1,4 +1,4 @@
-## beta.armbian.com 
+# beta.armbian.com 
 repository uploader
 
 **Upload files to the desired directory and they will automatically be published to the repository.**
