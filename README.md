@@ -2,13 +2,19 @@
 
 **beta.armbian.com**
 
-Upload files to the desired directory and they will automatically be published to the repository. You can [make debs with our build tools](https://github.com/armbian/build), made on your own or grab somewhere.
+This repository is one of incoming location for beta.armbian.com packages repository. Once your pull request is merged packages will automatically be published to the repository. You can [make debs with our build tools](https://github.com/armbian/build), made on your own or grab somewhere.
+
+<br/><br/>
+
 
 ## Steps
 
 1. Fork this repository to your account
 2. Upload files to [upload locations](#upload-locations)
 3. Create pull request
+
+<br/><br/>
+
 
 ## Upload locations
 
