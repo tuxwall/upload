@@ -14,7 +14,7 @@ This repository is one of incoming location for beta.armbian.com packages reposi
 3. Create pull request
 
 <br/><br/>
-
+<br/><br/>
 
 ## Upload locations
 
