@@ -7,11 +7,10 @@ This repository is one of incoming location for beta.armbian.com packages reposi
 <br/><br/>
 
 
-## Steps
 
-1. Fork this repository to your account
-2. Upload files to [upload locations](#upload-locations)
-3. Create pull request
+   1. Fork this repository to your account
+   2. Upload files to [upload locations](#upload-locations)
+   3. Create pull request
 
 <br/><br/>
 <br/><br/>
