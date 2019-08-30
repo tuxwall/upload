@@ -1,5 +1,7 @@
-# beta.armbian.com 
-repository uploader
+# Repository uploader
+
+**beta.armbian.com**
+
 
 **Upload files to the desired directory and they will automatically be published to the repository.**
 
@@ -11,24 +13,10 @@ repository uploader
 
 
 
-Packages [full list](content.txt) | statistics:
+## Upload locations
 
-	 * [bionic-desktop]: Armbian bionic desktop (packages: 1)
-	 * [bionic-utils]: Armbian bionic utilities (packages: 1)
-	 * [bionic]: Armbian main repository (packages: 326)
-	 * [buster-desktop]: Armbian buster desktop (packages: 1)
-	 * [buster-utils]: Armbian buster utilities (packages: 1)
-	 * [buster]: Armbian main repository (packages: 332)
-	 * [disco-desktop]: Armbian disco desktop (packages: 1)
-	 * [disco-utils]: Armbian disco utilities (packages: 1)
-	 * [disco]: Armbian main repository (packages: 326)
-	 * [stretch-desktop]: Armbian stretch desktop (packages: 1)
-	 * [stretch-utils]: Armbian stretch utilities (packages: 1)
-	 * [stretch]: Armbian main repository (packages: 326)
-	 * [utils]: Armbian utilities (backwards compatibility) (packages: 0)
-	 * [xenial-desktop]: Armbian xenial desktop (packages: 1)
-	 * [xenial-utils]: Armbian xenial utilities (packages: 1)
-	 * [xenial]: Armbian main repository (packages: 326)
+You need to clone this repository and upload files to one of the following destionation:
+
 <table width="100%" cellpadding="4" cellspacing="0">
 	<tr>
 		<td align="center" rowspan="4">
@@ -111,4 +99,23 @@ Packages [full list](content.txt) | statistics:
 	$release-desktop = accelerated drivers
 	main = armbian-$release-desktop, armbian-firmware, armbian-config + various
 
-[www.armbian.com](https://www.armbian.com)
+## Statistics
+
+	 * [bionic-desktop]: Armbian bionic desktop (packages: 1)
+	 * [bionic-utils]: Armbian bionic utilities (packages: 1)
+	 * [bionic]: Armbian main repository (packages: 326)
+	 * [buster-desktop]: Armbian buster desktop (packages: 1)
+	 * [buster-utils]: Armbian buster utilities (packages: 1)
+	 * [buster]: Armbian main repository (packages: 332)
+	 * [disco-desktop]: Armbian disco desktop (packages: 1)
+	 * [disco-utils]: Armbian disco utilities (packages: 1)
+	 * [disco]: Armbian main repository (packages: 326)
+	 * [stretch-desktop]: Armbian stretch desktop (packages: 1)
+	 * [stretch-utils]: Armbian stretch utilities (packages: 1)
+	 * [stretch]: Armbian main repository (packages: 326)
+	 * [utils]: Armbian utilities (backwards compatibility) (packages: 0)
+	 * [xenial-desktop]: Armbian xenial desktop (packages: 1)
+	 * [xenial-utils]: Armbian xenial utilities (packages: 1)
+	 * [xenial]: Armbian main repository (packages: 326)
+
+Packages [full list](content.txt)
